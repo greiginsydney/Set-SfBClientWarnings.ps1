@@ -13,9 +13,12 @@ This script will set the necessary registry keys to either suppress all of Lync'
 <p><span style="font-size: small;"><a href="https://greiginsydney.com/set-lync2013clientwarnings-ps1/" target="_blank">https://greiginsydney.com/set-lync2013clientwarnings-ps1/</a></span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: small;">This is just a sample:</span></p>
-<p><img id="133803" src="/site/view/file/133803/1/ClosingThisWindowWillEndTheCurrentPhoneCall2.PNG" alt="" width="348" height="232" /></p>
-<p><img id="133804" src="/site/view/file/133804/1/OnceBlockedThisPersonWontSee2.PNG" alt="" width="348" height="343" /></p>
-<p><img id="133805" src="/site/view/file/133805/1/DoYouWantToCloseAllTabs2.PNG" alt="" width="502" height="214" /></p>
+<img src="https://user-images.githubusercontent.com/11004787/81054080-7c3be880-8f09-11ea-813c-28cb3798c240.png" alt="" width="600" />
+
+<img src="https://user-images.githubusercontent.com/11004787/81054144-9bd31100-8f09-11ea-93d6-73bfb4f6211d.png" alt="" width="600" />
+
+<img src="https://user-images.githubusercontent.com/11004787/81054185-ad1c1d80-8f09-11ea-95ff-e66185b59d84.png" alt="" width="600" />
+
 <p>&nbsp;</p>
 <p><span style="font-size: small;">The script comes with inbuilt help &amp; is code-signed (with thanks to DigiCert).</span></p>
 <p>&nbsp;</p>
@@ -25,5 +28,11 @@ This script will set the necessary registry keys to either suppress all of Lync'
 <pre><span style="font-size: small;">PS W:\&gt; .\Set-SfBClientWarnings.ps1 expert -IncludeCloseAllTabs -IncludeLocationWarning</span></pre>
 <pre><span style="font-size: small;">PS W:\&gt; .\Set-SfBClientWarnings.ps1 default<br /></span></pre>
 <pre><span style="font-size: small;"><br /></span></pre>
-<pre><span style="font-size: small;"><br /></span></pre>
-<p><span style="font-size: small;">- Greig.</span></p>
+<br>
+
+\- G.
+
+<br>
+
+This script was originally published at https://greiginsydney.com/set-lync2013clientwarnings-ps1/](https://greiginsydney.com/set-lync2013clientwarnings-ps1/).
+
